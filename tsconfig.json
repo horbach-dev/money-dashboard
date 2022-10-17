@@ -1,8 +1,0 @@
-{
-  "compilerOptions": {
-    "esModuleInterop": true,
-    "importsNotUsedAsValues": "error",
-    "jsx": "react",
-    "resolveJsonModule": true
-  }
-}
